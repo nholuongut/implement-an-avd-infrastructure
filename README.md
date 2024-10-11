@@ -4,7 +4,7 @@
 ### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
 <br/>
 
-Welcome to Implementing an Azure Virtual Desktop Infrastructure. These exercise files are meant to accompany my course on Pluralsight. The course was originally developed in May of 2022, using PowerShell version 7.2.2, Azure PowerShell module version 7.5.0, Azure CLI version 2.30.0, and Terraform 1.1.2. All of the exercise files should continue to be valid on the current major version of each platform.
+Welcome to Implementing an Azure Virtual Desktop Infrastructure. These exercise files are meant to accompany my course. The course was originally developed in May of 2022, using PowerShell version 7.2.2, Azure PowerShell module version 7.5.0, Azure CLI version 2.30.0, and Terraform 1.1.2. All of the exercise files should continue to be valid on the current major version of each platform.
 
 ## Using the files
 
